@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Data - DO NOT COMMIT LARGE FILES
+data/raw/
+data/processed/
+*.csv
+*.pk
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
