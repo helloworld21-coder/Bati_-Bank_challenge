@@ -1,0 +1,7 @@
+
+EDA Completed Successfully!
+============================
+Date: 2025-12-16 04:53
+Rows: 95,662
+Columns: 22
+File saved: C:\Users\Kisanet\Bati_-Bank_challenge\credit-risk-model\data\processed\eda_processed_data.csv
